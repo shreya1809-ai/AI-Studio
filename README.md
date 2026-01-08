@@ -10,11 +10,6 @@ A rapid prototype built using the Google Gemini API to tailor resumes to specifi
 2. Uses Gemini 1.5 Pro to analyze keyword gaps.
 3. Generates tailored bullet points.
 
-# Run and deploy your AI Studio app
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://aistudio-preprod.corp.google.com/apps/drive/1PzcmNww4emiGw4oEY6atg_QiPaAp_7t9?resourceKey=0-PACj9XSiU1URvld6mnYl8g
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
